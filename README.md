@@ -19,5 +19,3 @@ Installing
 To install the project, follow these steps:
 
 Clone the repository:
-git clone  https://github.com/chihebkitar/demo.git
-cd demo
